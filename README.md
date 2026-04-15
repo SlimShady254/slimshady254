@@ -38,7 +38,7 @@
 
 ![Snake animation](https://github.com/SlimShady254/SlimShady254/blob/output/github-contribution-grid-snake.svg)
 
-
+![Snake](https://github.com/SlimShady254/SlimShady254/blob/output/github-contribution-grid-snake.gif)
 <!--
 **SlimShady254/slimshady254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
