@@ -34,6 +34,11 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=SlimShady254&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=SLimShady254&theme=tokyonight)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/SlimShady254/SlimShady254/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **SlimShady254/slimshady254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
