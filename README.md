@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Slim Shady</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;Building+Cool+Projects;Always+Learning&center=true&width=500&height=50">
+</p>
+
+
+
+
 # 👋 Hi, I'm Slim Shady
 
 💻 MERN Stack Developer  
